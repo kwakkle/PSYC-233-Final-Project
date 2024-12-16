@@ -15,4 +15,5 @@ The project aims to investigate the relationship between sleep patterns and ment
 
 ## Dashboard Preview  
 Below is a preview of the dashboard interface:  
-![Dashboard Preview](relative/path/to/image.png)
+
+![Dashboard Preview](nhanesimage.png)
